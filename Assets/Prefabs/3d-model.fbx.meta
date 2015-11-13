@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: 14cae1b7adcfc4b4aa77ba9f7813f8eb
+timeCreated: 1447283975
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Beloved Avatar_001
+    100004: Beloved Avatar_002
+    100006: Beloved Avatar_003
+    100008: Beloved Avatar_004
+    100010: furniturenodessmallgroup_001
+    100012: Group_001
+    100014: Group_003
+    100016: Group_005
+    100018: Group_007
+    100020: Group_009
+    100022: Group_011
+    100024: Group_013
+    100026: Group_015
+    100028: IMV WHO_001
+    100030: IMV WHO_002
+    100032: IMV WHO_003
+    100034: IMV WHO_004
+    100036: Layer0_001
+    100038: mo_camera_001
+    100040: mo_target_001
+    100042: Over 3000 kb_001
+    100044: Over 3000 kb_002
+    100046: Over 3000 kb_003
+    100048: Over 3000 kb_004
+    100050: puck_001
+    100052: puck_003
+    100054: puck_005
+    100056: puck_007
+    100058: puck_009
+    100060: puck_011
+    100062: puck_013
+    100064: puck_015
+    100066: puck_017
+    100068: puck_019
+    100070: puck_021
+    100072: puck_023
+    100074: puck_025
+    100076: puck_027
+    100078: puck_029
+    100080: puck_031
+    100082: REST IN PEACE_001
+    100084: REST IN PEACE_002
+    100086: REST IN PEACE_003
+    100088: REST IN PEACE_004
+    100090: REST IN PEACE_005
+    100092: REST IN PEACE_006
+    100094: REST IN PEACE_007
+    100096: REST IN PEACE_008
+    100098: REST IN PEACE_009
+    100100: REST IN PEACE_010
+    100102: REST IN PEACE_011
+    100104: REST IN PEACE_012
+    100106: RIP_001
+    100108: RIP_002
+    100110: RIP_003
+    100112: RIP_004
+    400000: //RootNode
+    400002: Beloved Avatar_001
+    400004: Beloved Avatar_002
+    400006: Beloved Avatar_003
+    400008: Beloved Avatar_004
+    400010: furniturenodessmallgroup_001
+    400012: Group_001
+    400014: Group_003
+    400016: Group_005
+    400018: Group_007
+    400020: Group_009
+    400022: Group_011
+    400024: Group_013
+    400026: Group_015
+    400028: IMV WHO_001
+    400030: IMV WHO_002
+    400032: IMV WHO_003
+    400034: IMV WHO_004
+    400036: Layer0_001
+    400038: mo_camera_001
+    400040: mo_target_001
+    400042: Over 3000 kb_001
+    400044: Over 3000 kb_002
+    400046: Over 3000 kb_003
+    400048: Over 3000 kb_004
+    400050: puck_001
+    400052: puck_003
+    400054: puck_005
+    400056: puck_007
+    400058: puck_009
+    400060: puck_011
+    400062: puck_013
+    400064: puck_015
+    400066: puck_017
+    400068: puck_019
+    400070: puck_021
+    400072: puck_023
+    400074: puck_025
+    400076: puck_027
+    400078: puck_029
+    400080: puck_031
+    400082: REST IN PEACE_001
+    400084: REST IN PEACE_002
+    400086: REST IN PEACE_003
+    400088: REST IN PEACE_004
+    400090: REST IN PEACE_005
+    400092: REST IN PEACE_006
+    400094: REST IN PEACE_007
+    400096: REST IN PEACE_008
+    400098: REST IN PEACE_009
+    400100: REST IN PEACE_010
+    400102: REST IN PEACE_011
+    400104: REST IN PEACE_012
+    400106: RIP_001
+    400108: RIP_002
+    400110: RIP_003
+    400112: RIP_004
+    2300000: Beloved Avatar_001
+    2300002: Beloved Avatar_002
+    2300004: Beloved Avatar_003
+    2300006: Beloved Avatar_004
+    2300008: furniturenodessmallgroup_001
+    2300010: Group_001
+    2300012: Group_003
+    2300014: Group_005
+    2300016: Group_007
+    2300018: Group_009
+    2300020: Group_011
+    2300022: Group_013
+    2300024: Group_015
+    2300026: IMV WHO_001
+    2300028: IMV WHO_002
+    2300030: IMV WHO_003
+    2300032: IMV WHO_004
+    2300034: Layer0_001
+    2300036: mo_camera_001
+    2300038: mo_target_001
+    2300040: Over 3000 kb_001
+    2300042: Over 3000 kb_002
+    2300044: Over 3000 kb_003
+    2300046: Over 3000 kb_004
+    2300048: puck_001
+    2300050: puck_003
+    2300052: puck_005
+    2300054: puck_007
+    2300056: puck_009
+    2300058: puck_011
+    2300060: puck_013
+    2300062: puck_015
+    2300064: puck_017
+    2300066: puck_019
+    2300068: puck_021
+    2300070: puck_023
+    2300072: puck_025
+    2300074: puck_027
+    2300076: puck_029
+    2300078: puck_031
+    2300080: REST IN PEACE_001
+    2300082: REST IN PEACE_002
+    2300084: REST IN PEACE_003
+    2300086: REST IN PEACE_004
+    2300088: REST IN PEACE_005
+    2300090: REST IN PEACE_006
+    2300092: REST IN PEACE_007
+    2300094: REST IN PEACE_008
+    2300096: REST IN PEACE_009
+    2300098: REST IN PEACE_010
+    2300100: REST IN PEACE_011
+    2300102: REST IN PEACE_012
+    2300104: RIP_001
+    2300106: RIP_002
+    2300108: RIP_003
+    2300110: RIP_004
+    3300000: Beloved Avatar_001
+    3300002: Beloved Avatar_002
+    3300004: Beloved Avatar_003
+    3300006: Beloved Avatar_004
+    3300008: furniturenodessmallgroup_001
+    3300010: Group_001
+    3300012: Group_003
+    3300014: Group_005
+    3300016: Group_007
+    3300018: Group_009
+    3300020: Group_011
+    3300022: Group_013
+    3300024: Group_015
+    3300026: IMV WHO_001
+    3300028: IMV WHO_002
+    3300030: IMV WHO_003
+    3300032: IMV WHO_004
+    3300034: Layer0_001
+    3300036: mo_camera_001
+    3300038: mo_target_001
+    3300040: Over 3000 kb_001
+    3300042: Over 3000 kb_002
+    3300044: Over 3000 kb_003
+    3300046: Over 3000 kb_004
+    3300048: puck_001
+    3300050: puck_003
+    3300052: puck_005
+    3300054: puck_007
+    3300056: puck_009
+    3300058: puck_011
+    3300060: puck_013
+    3300062: puck_015
+    3300064: puck_017
+    3300066: puck_019
+    3300068: puck_021
+    3300070: puck_023
+    3300072: puck_025
+    3300074: puck_027
+    3300076: puck_029
+    3300078: puck_031
+    3300080: REST IN PEACE_001
+    3300082: REST IN PEACE_002
+    3300084: REST IN PEACE_003
+    3300086: REST IN PEACE_004
+    3300088: REST IN PEACE_005
+    3300090: REST IN PEACE_006
+    3300092: REST IN PEACE_007
+    3300094: REST IN PEACE_008
+    3300096: REST IN PEACE_009
+    3300098: REST IN PEACE_010
+    3300100: REST IN PEACE_011
+    3300102: REST IN PEACE_012
+    3300104: RIP_001
+    3300106: RIP_002
+    3300108: RIP_003
+    3300110: RIP_004
+    4300000: puck_031
+    4300002: puck_029
+    4300004: puck_027
+    4300006: puck_025
+    4300008: puck_023
+    4300010: puck_021
+    4300012: puck_019
+    4300014: puck_017
+    4300016: puck_015
+    4300018: puck_013
+    4300020: puck_011
+    4300022: puck_009
+    4300024: puck_007
+    4300026: puck_005
+    4300028: puck_003
+    4300030: puck_001
+    4300032: furniturenodessmallgroup_001
+    4300034: Group_015
+    4300036: Beloved Avatar_004
+    4300038: Over 3000 kb_004
+    4300040: RIP_004
+    4300042: Group_013
+    4300044: Group_011
+    4300046: Beloved Avatar_003
+    4300048: Over 3000 kb_003
+    4300050: RIP_003
+    4300052: Group_009
+    4300054: Group_007
+    4300056: Beloved Avatar_002
+    4300058: Over 3000 kb_002
+    4300060: RIP_002
+    4300062: Group_005
+    4300064: RIP_001
+    4300066: Over 3000 kb_001
+    4300068: Group_003
+    4300070: Group_001
+    4300072: Beloved Avatar_001
+    4300074: IMV WHO_004
+    4300076: IMV WHO_003
+    4300078: IMV WHO_002
+    4300080: IMV WHO_001
+    4300082: REST IN PEACE_012
+    4300084: REST IN PEACE_011
+    4300086: REST IN PEACE_010
+    4300088: REST IN PEACE_009
+    4300090: REST IN PEACE_008
+    4300092: REST IN PEACE_007
+    4300094: REST IN PEACE_006
+    4300096: REST IN PEACE_005
+    4300098: REST IN PEACE_004
+    4300100: REST IN PEACE_003
+    4300102: REST IN PEACE_002
+    4300104: REST IN PEACE_001
+    4300106: mo_target_001
+    4300108: mo_camera_001
+    4300110: Layer0_001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
